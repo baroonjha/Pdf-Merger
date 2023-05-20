@@ -1,6 +1,6 @@
 # Pdf-Merger
 
-##To run the project locally
+## To run the project locally
 Steps to follow
 1. Fork the repo.
 2.
